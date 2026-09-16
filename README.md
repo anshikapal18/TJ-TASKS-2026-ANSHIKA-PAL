@@ -4,7 +4,7 @@ Hi 👋, I'm Anshika Pal
 🎓 BTech CSE Student | Aspiring Software Developer
 Welcome to my GitHub profile! I'm a Computer Science Engineering student who is passionate about learning programming, exploring new technologies, and building projects.
 
-👩‍💻 About Me
+👩‍💻 ABOUT ME
 
 🎓 Currently pursuing BTech in Computer Science & Engineering
 🌱 Currently learning C Programming, Java & Data Structures
@@ -12,14 +12,14 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who is 
 🚀 Working on improving my programming and problem-solving skills
 📚 Always curious to learn something new
 
-🛠️ Languages & Technologies
+🛠️ LANGUAGES & TECHNOLOGIES 
 
 C
 Java
 HTML & CSS
 Git & GitHub
 
-📌 My Goals
+📌 MY GOALS
 
 Build interesting and useful projects
 Strengthen my programming fundamentals
@@ -27,7 +27,7 @@ Learn new technologies
 Contribute to open-source projects
 Grow as a software developer
 
-📂 Projects
+📂 PROJECTS
 
 I'm currently learning and building beginner-friendly projects.
 More projects coming soon! 🚀
